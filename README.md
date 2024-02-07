@@ -24,7 +24,6 @@ Steps to run the project:
 4. PID control for navigation.
 
 ## Final Result
-
-![Quadrotor Navigation Demo](/Result.gif)
+![Quadrotor Navigation Demo](https://github.com/mayankbansal82/Motion-Planning-for-UAV/blob/main/Result.gif)
 
 
