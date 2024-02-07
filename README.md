@@ -25,6 +25,6 @@ Steps to run the project:
 
 ## Final Result
 
-![Quadrotor Navigation Demo](https://github.com/mayankbansal82/Motion-Planning-for-UAV/blob/main/Result.gif)
+![Quadrotor Navigation Demo](/Result.gif)
 
 
